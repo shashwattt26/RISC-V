@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Fri Oct 31 16:32:50 2025
+# Process ID         : 12104
+# Current directory  : C:/Users/shash/RISC_V32bit/RISC_V32bit.runs/impl_1
+# Command line       : vivado.exe -log PROCESSOR.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source PROCESSOR.tcl -notrace
+# Log file           : C:/Users/shash/RISC_V32bit/RISC_V32bit.runs/impl_1/PROCESSOR.vdi
+# Journal file       : C:/Users/shash/RISC_V32bit/RISC_V32bit.runs/impl_1\vivado.jou
+# Running On         : ShashwatPC
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz
+# CPU Frequency      : 2712 MHz
+# CPU Physical cores : 2
+# CPU Logical cores  : 4
+# Host memory        : 17060 MB
+# Swap memory        : 1073 MB
+# Total Virtual      : 18134 MB
+# Available Virtual  : 8198 MB
+#-----------------------------------------------------------
+source PROCESSOR.tcl -notrace

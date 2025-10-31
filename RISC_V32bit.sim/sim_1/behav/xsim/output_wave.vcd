@@ -1,0 +1,162 @@
+$date
+   Thu Oct 30 20:53:40 2025
+$end
+
+$version
+  2025.1.0
+  $dumpfile ("output_wave.vcd") 
+$end
+
+$timescale
+  1ps
+$end
+
+$scope module stimulus $end
+$var reg 5 ! read_reg_num1 [4:0] $end
+$var reg 5 " read_reg_num2 [4:0] $end
+$var reg 5 # write_reg [4:0] $end
+$var reg 32 $ write_data [31:0] $end
+$var wire 32 % read_data1 [31:0] $end
+$var wire 32 & read_data2 [31:0] $end
+$var reg 1 ' regwrite $end
+$var reg 1 ( clock $end
+$var reg 1 ) reset $end
+$scope module REG_FILE_module $end
+$var wire 5 * read_reg_num1 [4:0] $end
+$var wire 5 + read_reg_num2 [4:0] $end
+$var wire 5 , write_reg [4:0] $end
+$var wire 32 - write_data [31:0] $end
+$var wire 32 % read_data1 [31:0] $end
+$var wire 32 & read_data2 [31:0] $end
+$var wire 1 . regwrite $end
+$var wire 1 / clock $end
+$var wire 1 0 reset $end
+$var integer 32 1 i [31:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+
+#0
+$dumpvars
+bx !
+bx "
+bx #
+bx $
+bx %
+bx &
+0'
+0(
+1)
+bx *
+bx +
+bx ,
+bx -
+0.
+0/
+10
+b0 1
+$end
+
+#10000
+b0 !
+b0 "
+b0 #
+b10100 $
+b10100 %
+b10100 &
+1'
+1(
+0)
+b0 *
+b0 +
+b0 ,
+b10100 -
+1.
+1/
+00
+
+#20000
+b1 "
+b1 #
+b11110 $
+b1 &
+0(
+b1 +
+b1 ,
+b11110 -
+0/
+
+#30000
+b11110 &
+1(
+1/
+
+#40000
+b1 !
+b10 "
+b11110 %
+b10 &
+0(
+b1 *
+b10 +
+0/
+
+#50000
+1(
+1/
+
+#60000
+0(
+0/
+
+#70000
+1(
+1/
+
+#80000
+0(
+0/
+
+#90000
+1(
+1/
+
+#100000
+0(
+0/
+
+#110000
+1(
+1/
+
+#120000
+0(
+0/
+
+#130000
+1(
+1/
+
+#140000
+0(
+0/
+
+#150000
+1(
+1/
+
+#160000
+0(
+0/
+
+#170000
+1(
+1/
+
+#180000
+0(
+0/
+
+#190000
+1(
+1/

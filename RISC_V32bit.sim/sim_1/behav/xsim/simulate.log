@@ -1,0 +1,100 @@
+Time resolution is 1 ps
+Time=0 | PC=00000000 | Inst(ID)=00000000 | WB_Reg= 0 | WB_Data=00000000 | LED=00 | Stall=0 | Flush=0
+Time=25000 | PC=00000004 | Inst(ID)=800001b7 | WB_Reg= 0 | WB_Data=00000000 | LED=00 | Stall=0 | Flush=0
+Time=35000 | PC=00000008 | Inst(ID)=00000093 | WB_Reg= 0 | WB_Data=00000000 | LED=00 | Stall=0 | Flush=0
+Time=45000 | PC=0000000c | Inst(ID)=00300213 | WB_Reg= 0 | WB_Data=00000000 | LED=00 | Stall=0 | Flush=0
+Time=55000 | PC=00000010 | Inst(ID)=0011a023 | WB_Reg= 3 | WB_Data=80000000 | LED=00 | Stall=0 | Flush=0
+Time=65000 | PC=00000014 | Inst(ID)=00108093 | WB_Reg= 1 | WB_Data=00000000 | LED=00 | Stall=0 | Flush=0
+Time=75000 | PC=00000018 | Inst(ID)=00000113 | WB_Reg= 4 | WB_Data=00000003 | LED=00 | Stall=0 | Flush=0
+Time=85000 | PC=0000001c | Inst(ID)=00110113 | WB_Reg= 0 | WB_Data=00000003 | LED=00 | Stall=0 | Flush=0
+Time=95000 | PC=00000020 | Inst(ID)=fe411ee3 | WB_Reg= 1 | WB_Data=00000002 | LED=00 | Stall=0 | Flush=0
+Time=105000 | PC=00000024 | Inst(ID)=fec180ef | WB_Reg= 2 | WB_Data=00000000 | LED=00 | Stall=0 | Flush=1
+Time=115000 | PC=00000018 | Inst(ID)=00000000 | WB_Reg= 2 | WB_Data=00000001 | LED=00 | Stall=0 | Flush=0
+Time=125000 | PC=0000001c | Inst(ID)=00110113 | WB_Reg=29 | WB_Data=00000001 | LED=00 | Stall=0 | Flush=0
+Time=135000 | PC=00000020 | Inst(ID)=fe411ee3 | WB_Reg= 0 | WB_Data=00000000 | LED=00 | Stall=0 | Flush=0
+Time=145000 | PC=00000024 | Inst(ID)=fec180ef | WB_Reg= 0 | WB_Data=00000000 | LED=00 | Stall=0 | Flush=1
+Time=155000 | PC=00000018 | Inst(ID)=00000000 | WB_Reg= 2 | WB_Data=00000002 | LED=00 | Stall=0 | Flush=0
+Time=165000 | PC=0000001c | Inst(ID)=00110113 | WB_Reg=29 | WB_Data=00000001 | LED=00 | Stall=0 | Flush=0
+Time=175000 | PC=00000020 | Inst(ID)=fe411ee3 | WB_Reg= 0 | WB_Data=00000000 | LED=00 | Stall=0 | Flush=0
+Time=185000 | PC=00000024 | Inst(ID)=fec180ef | WB_Reg= 0 | WB_Data=00000000 | LED=00 | Stall=0 | Flush=0
+Time=195000 | PC=00000028 | Inst(ID)=xxxxxxxx | WB_Reg= 2 | WB_Data=00000003 | LED=00 | Stall=0 | Flush=1
+Time=205000 | PC=8000000c | Inst(ID)=00000000 | WB_Reg=29 | WB_Data=00000000 | LED=00 | Stall=0 | Flush=0
+Time=215000 | PC=80000010 | Inst(ID)=0011a023 | WB_Reg= 1 | WB_Data=00000024 | LED=00 | Stall=0 | Flush=0
+Time=225000 | PC=80000014 | Inst(ID)=00108093 | WB_Reg= 0 | WB_Data=00000000 | LED=00 | Stall=0 | Flush=0
+Time=235000 | PC=80000018 | Inst(ID)=00000113 | WB_Reg= 0 | WB_Data=00000000 | LED=00 | Stall=0 | Flush=0
+Time=245000 | PC=8000001c | Inst(ID)=00110113 | WB_Reg= 0 | WB_Data=80000000 | LED=02 | Stall=0 | Flush=0
+Time=255000 | PC=80000020 | Inst(ID)=fe411ee3 | WB_Reg= 1 | WB_Data=00000025 | LED=02 | Stall=0 | Flush=0
+Time=265000 | PC=80000024 | Inst(ID)=fec180ef | WB_Reg= 2 | WB_Data=00000000 | LED=02 | Stall=0 | Flush=1
+Time=275000 | PC=80000018 | Inst(ID)=00000000 | WB_Reg= 2 | WB_Data=00000001 | LED=02 | Stall=0 | Flush=0
+Time=285000 | PC=8000001c | Inst(ID)=00110113 | WB_Reg=29 | WB_Data=00000001 | LED=02 | Stall=0 | Flush=0
+Time=295000 | PC=80000020 | Inst(ID)=fe411ee3 | WB_Reg= 0 | WB_Data=00000000 | LED=02 | Stall=0 | Flush=0
+Time=305000 | PC=80000024 | Inst(ID)=fec180ef | WB_Reg= 0 | WB_Data=00000000 | LED=02 | Stall=0 | Flush=1
+Time=315000 | PC=80000018 | Inst(ID)=00000000 | WB_Reg= 2 | WB_Data=00000002 | LED=02 | Stall=0 | Flush=0
+Time=325000 | PC=8000001c | Inst(ID)=00110113 | WB_Reg=29 | WB_Data=00000001 | LED=02 | Stall=0 | Flush=0
+Time=335000 | PC=80000020 | Inst(ID)=fe411ee3 | WB_Reg= 0 | WB_Data=00000000 | LED=02 | Stall=0 | Flush=0
+Time=345000 | PC=80000024 | Inst(ID)=fec180ef | WB_Reg= 0 | WB_Data=00000000 | LED=02 | Stall=0 | Flush=0
+Time=355000 | PC=80000028 | Inst(ID)=xxxxxxxx | WB_Reg= 2 | WB_Data=00000003 | LED=02 | Stall=0 | Flush=1
+Time=365000 | PC=8000000c | Inst(ID)=00000000 | WB_Reg=29 | WB_Data=00000000 | LED=02 | Stall=0 | Flush=0
+Time=375000 | PC=80000010 | Inst(ID)=0011a023 | WB_Reg= 1 | WB_Data=80000024 | LED=02 | Stall=0 | Flush=0
+Time=385000 | PC=80000014 | Inst(ID)=00108093 | WB_Reg= 0 | WB_Data=00000000 | LED=02 | Stall=0 | Flush=0
+Time=395000 | PC=80000018 | Inst(ID)=00000113 | WB_Reg= 0 | WB_Data=00000000 | LED=02 | Stall=0 | Flush=0
+Time=405000 | PC=8000001c | Inst(ID)=00110113 | WB_Reg= 0 | WB_Data=80000000 | LED=25 | Stall=0 | Flush=0
+Time=415000 | PC=80000020 | Inst(ID)=fe411ee3 | WB_Reg= 1 | WB_Data=80000025 | LED=25 | Stall=0 | Flush=0
+Time=425000 | PC=80000024 | Inst(ID)=fec180ef | WB_Reg= 2 | WB_Data=00000000 | LED=25 | Stall=0 | Flush=1
+Time=435000 | PC=80000018 | Inst(ID)=00000000 | WB_Reg= 2 | WB_Data=00000001 | LED=25 | Stall=0 | Flush=0
+Time=445000 | PC=8000001c | Inst(ID)=00110113 | WB_Reg=29 | WB_Data=00000001 | LED=25 | Stall=0 | Flush=0
+Time=455000 | PC=80000020 | Inst(ID)=fe411ee3 | WB_Reg= 0 | WB_Data=00000000 | LED=25 | Stall=0 | Flush=0
+Time=465000 | PC=80000024 | Inst(ID)=fec180ef | WB_Reg= 0 | WB_Data=00000000 | LED=25 | Stall=0 | Flush=1
+Time=475000 | PC=80000018 | Inst(ID)=00000000 | WB_Reg= 2 | WB_Data=00000002 | LED=25 | Stall=0 | Flush=0
+Time=485000 | PC=8000001c | Inst(ID)=00110113 | WB_Reg=29 | WB_Data=00000001 | LED=25 | Stall=0 | Flush=0
+Time=495000 | PC=80000020 | Inst(ID)=fe411ee3 | WB_Reg= 0 | WB_Data=00000000 | LED=25 | Stall=0 | Flush=0
+Time=505000 | PC=80000024 | Inst(ID)=fec180ef | WB_Reg= 0 | WB_Data=00000000 | LED=25 | Stall=0 | Flush=0
+Time=515000 | PC=80000028 | Inst(ID)=xxxxxxxx | WB_Reg= 2 | WB_Data=00000003 | LED=25 | Stall=0 | Flush=1
+Time=525000 | PC=8000000c | Inst(ID)=00000000 | WB_Reg=29 | WB_Data=00000000 | LED=25 | Stall=0 | Flush=0
+Time=535000 | PC=80000010 | Inst(ID)=0011a023 | WB_Reg= 1 | WB_Data=80000024 | LED=25 | Stall=0 | Flush=0
+Time=545000 | PC=80000014 | Inst(ID)=00108093 | WB_Reg= 0 | WB_Data=00000000 | LED=25 | Stall=0 | Flush=0
+Time=555000 | PC=80000018 | Inst(ID)=00000113 | WB_Reg= 0 | WB_Data=00000000 | LED=25 | Stall=0 | Flush=0
+Time=565000 | PC=8000001c | Inst(ID)=00110113 | WB_Reg= 0 | WB_Data=80000000 | LED=25 | Stall=0 | Flush=0
+Time=575000 | PC=80000020 | Inst(ID)=fe411ee3 | WB_Reg= 1 | WB_Data=80000025 | LED=25 | Stall=0 | Flush=0
+Time=585000 | PC=80000024 | Inst(ID)=fec180ef | WB_Reg= 2 | WB_Data=00000000 | LED=25 | Stall=0 | Flush=1
+Time=595000 | PC=80000018 | Inst(ID)=00000000 | WB_Reg= 2 | WB_Data=00000001 | LED=25 | Stall=0 | Flush=0
+Time=605000 | PC=8000001c | Inst(ID)=00110113 | WB_Reg=29 | WB_Data=00000001 | LED=25 | Stall=0 | Flush=0
+Time=615000 | PC=80000020 | Inst(ID)=fe411ee3 | WB_Reg= 0 | WB_Data=00000000 | LED=25 | Stall=0 | Flush=0
+Time=625000 | PC=80000024 | Inst(ID)=fec180ef | WB_Reg= 0 | WB_Data=00000000 | LED=25 | Stall=0 | Flush=1
+Time=635000 | PC=80000018 | Inst(ID)=00000000 | WB_Reg= 2 | WB_Data=00000002 | LED=25 | Stall=0 | Flush=0
+Time=645000 | PC=8000001c | Inst(ID)=00110113 | WB_Reg=29 | WB_Data=00000001 | LED=25 | Stall=0 | Flush=0
+Time=655000 | PC=80000020 | Inst(ID)=fe411ee3 | WB_Reg= 0 | WB_Data=00000000 | LED=25 | Stall=0 | Flush=0
+Time=665000 | PC=80000024 | Inst(ID)=fec180ef | WB_Reg= 0 | WB_Data=00000000 | LED=25 | Stall=0 | Flush=0
+Time=675000 | PC=80000028 | Inst(ID)=xxxxxxxx | WB_Reg= 2 | WB_Data=00000003 | LED=25 | Stall=0 | Flush=1
+Time=685000 | PC=8000000c | Inst(ID)=00000000 | WB_Reg=29 | WB_Data=00000000 | LED=25 | Stall=0 | Flush=0
+Time=695000 | PC=80000010 | Inst(ID)=0011a023 | WB_Reg= 1 | WB_Data=80000024 | LED=25 | Stall=0 | Flush=0
+Time=705000 | PC=80000014 | Inst(ID)=00108093 | WB_Reg= 0 | WB_Data=00000000 | LED=25 | Stall=0 | Flush=0
+Time=715000 | PC=80000018 | Inst(ID)=00000113 | WB_Reg= 0 | WB_Data=00000000 | LED=25 | Stall=0 | Flush=0
+Time=725000 | PC=8000001c | Inst(ID)=00110113 | WB_Reg= 0 | WB_Data=80000000 | LED=25 | Stall=0 | Flush=0
+Time=735000 | PC=80000020 | Inst(ID)=fe411ee3 | WB_Reg= 1 | WB_Data=80000025 | LED=25 | Stall=0 | Flush=0
+Time=745000 | PC=80000024 | Inst(ID)=fec180ef | WB_Reg= 2 | WB_Data=00000000 | LED=25 | Stall=0 | Flush=1
+Time=755000 | PC=80000018 | Inst(ID)=00000000 | WB_Reg= 2 | WB_Data=00000001 | LED=25 | Stall=0 | Flush=0
+Time=765000 | PC=8000001c | Inst(ID)=00110113 | WB_Reg=29 | WB_Data=00000001 | LED=25 | Stall=0 | Flush=0
+Time=775000 | PC=80000020 | Inst(ID)=fe411ee3 | WB_Reg= 0 | WB_Data=00000000 | LED=25 | Stall=0 | Flush=0
+Time=785000 | PC=80000024 | Inst(ID)=fec180ef | WB_Reg= 0 | WB_Data=00000000 | LED=25 | Stall=0 | Flush=1
+Time=795000 | PC=80000018 | Inst(ID)=00000000 | WB_Reg= 2 | WB_Data=00000002 | LED=25 | Stall=0 | Flush=0
+Time=805000 | PC=8000001c | Inst(ID)=00110113 | WB_Reg=29 | WB_Data=00000001 | LED=25 | Stall=0 | Flush=0
+Time=815000 | PC=80000020 | Inst(ID)=fe411ee3 | WB_Reg= 0 | WB_Data=00000000 | LED=25 | Stall=0 | Flush=0
+Time=825000 | PC=80000024 | Inst(ID)=fec180ef | WB_Reg= 0 | WB_Data=00000000 | LED=25 | Stall=0 | Flush=0
+Time=835000 | PC=80000028 | Inst(ID)=xxxxxxxx | WB_Reg= 2 | WB_Data=00000003 | LED=25 | Stall=0 | Flush=1
+Time=845000 | PC=8000000c | Inst(ID)=00000000 | WB_Reg=29 | WB_Data=00000000 | LED=25 | Stall=0 | Flush=0
+Time=855000 | PC=80000010 | Inst(ID)=0011a023 | WB_Reg= 1 | WB_Data=80000024 | LED=25 | Stall=0 | Flush=0
+Time=865000 | PC=80000014 | Inst(ID)=00108093 | WB_Reg= 0 | WB_Data=00000000 | LED=25 | Stall=0 | Flush=0
+Time=875000 | PC=80000018 | Inst(ID)=00000113 | WB_Reg= 0 | WB_Data=00000000 | LED=25 | Stall=0 | Flush=0
+Time=885000 | PC=8000001c | Inst(ID)=00110113 | WB_Reg= 0 | WB_Data=80000000 | LED=25 | Stall=0 | Flush=0
+Time=895000 | PC=80000020 | Inst(ID)=fe411ee3 | WB_Reg= 1 | WB_Data=80000025 | LED=25 | Stall=0 | Flush=0
+Time=905000 | PC=80000024 | Inst(ID)=fec180ef | WB_Reg= 2 | WB_Data=00000000 | LED=25 | Stall=0 | Flush=1
+Time=915000 | PC=80000018 | Inst(ID)=00000000 | WB_Reg= 2 | WB_Data=00000001 | LED=25 | Stall=0 | Flush=0
+Time=925000 | PC=8000001c | Inst(ID)=00110113 | WB_Reg=29 | WB_Data=00000001 | LED=25 | Stall=0 | Flush=0
+Time=935000 | PC=80000020 | Inst(ID)=fe411ee3 | WB_Reg= 0 | WB_Data=00000000 | LED=25 | Stall=0 | Flush=0
+Time=945000 | PC=80000024 | Inst(ID)=fec180ef | WB_Reg= 0 | WB_Data=00000000 | LED=25 | Stall=0 | Flush=1
+Time=955000 | PC=80000018 | Inst(ID)=00000000 | WB_Reg= 2 | WB_Data=00000002 | LED=25 | Stall=0 | Flush=0
+Time=965000 | PC=8000001c | Inst(ID)=00110113 | WB_Reg=29 | WB_Data=00000001 | LED=25 | Stall=0 | Flush=0
+Time=975000 | PC=80000020 | Inst(ID)=fe411ee3 | WB_Reg= 0 | WB_Data=00000000 | LED=25 | Stall=0 | Flush=0
+Time=985000 | PC=80000024 | Inst(ID)=fec180ef | WB_Reg= 0 | WB_Data=00000000 | LED=25 | Stall=0 | Flush=0
+Time=995000 | PC=80000028 | Inst(ID)=xxxxxxxx | WB_Reg= 2 | WB_Data=00000003 | LED=25 | Stall=0 | Flush=1
