@@ -109,13 +109,14 @@ addi x1, x0, 10
 addi x2, x0, 20
 add x3, x1, x2
 ```
-```Result
+Result:
+```
 x3 = 30
 ```
 
 ---
 
-###Learning Objectives
+## Learning Objectives
 
 This project helps in understanding:
 - Instruction Set Architecture (ISA)
@@ -126,18 +127,7 @@ This project helps in understanding:
 
 ---
 
-###Possible Future Improvements
-
-- Pipelined processor design
-- Hazard detection
-- Branch prediction
-- Cache implementation
-- Support for additional RISC-V extensions
-- FPGA implementation
-
----
-
-###References
+## References
 
 - RISC-V ISA Specification
 - Computer Organization and Design — Patterson & Hennessy
@@ -145,7 +135,7 @@ This project helps in understanding:
 
 ---
 
-###Licence
+## Licence
 
 This project is licensed under the MIT License.
 
