@@ -149,12 +149,3 @@ This project is licensed under the MIT License.
 4. Commit
 
 ---
-
-If you want, I can also help you add **GitHub features that make the repo look much more impressive**, like:
-
-- architecture **diagram image**
-- **instruction table**
-- **demo GIF**
-- **build badge + stars badge**
-
-These things make the project look **much stronger when recruiters open it**.
